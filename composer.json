@@ -1,5 +1,7 @@
 {
     "name": "kuaifu/openalipay",
+    "description": "专注支付宝Alipay开发平台扩展包",
+    "keywords": ["alipay", "wechat", "pay"],
     "type": "library",
     "authors": [
         {
