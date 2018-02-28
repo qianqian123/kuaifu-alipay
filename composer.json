@@ -1,0 +1,23 @@
+{
+    "name": "kuaifu/openalipay",
+    "type": "library",
+    "authors": [
+        {
+            "name": "qianqian",
+            "email": "923953637@qq.com"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "kuaifu\\openalipay\\": "src"
+        }
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
